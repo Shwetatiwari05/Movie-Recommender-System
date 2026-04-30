@@ -4,11 +4,6 @@ A **content-based movie recommendation system** built using the TMDB 5000 datase
 
 ---
 
-## 📸 Screenshot
-
-> *(Add a screenshot of your app here)*
-
----
 
 ## 🧠 How It Works
 
@@ -121,8 +116,7 @@ git push heroku main
 
 ## 🙋‍♀️ Author
 
-**Your Name**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**Shweta Tiwari**  
 
 ---
 
