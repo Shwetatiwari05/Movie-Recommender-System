@@ -1,4 +1,5 @@
-🎬 Movie Recommendation System
+**🎬 Movie Recommendation System**
+
 A content-based movie recommendation system built using the TMDB 5000 dataset. Select any movie and get 5 personalized recommendations — complete with posters fetched live from the TMDB API — through a clean Streamlit web interface.
 
 
